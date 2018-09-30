@@ -4,3 +4,8 @@
 - graphes
 - mango
 - pineapple
+
+# mobiles
+- samsung
+- iphone 8
+- redmi 
