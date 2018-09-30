@@ -3,3 +3,4 @@
 - oranges
 - graphes
 - mango
+- pineapple
