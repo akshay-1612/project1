@@ -2,3 +2,5 @@
 - apples
 - oranges
 - graphes
+- mango
+- banana
