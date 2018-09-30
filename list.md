@@ -3,4 +3,3 @@
 - oranges
 - graphes
 - mango
-- banana
