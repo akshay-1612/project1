@@ -9,3 +9,4 @@
 - samsung
 - iphone 8
 - redmi 
+- lenovo
